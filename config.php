@@ -3,12 +3,11 @@
 	$dbUsername = 'root';
 	$dbPassword = '';
 	$dbDatabase = 'jisort_db';
-        
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
 		'adminPassword' => "7488e331b8b64e5794da3fa4eb10ad5d",
-		'notifyAdminNewMembers' => "0",
+		'notifyAdminNewMembers' => "2",
 		'defaultSignUp' => "1",
 		'anonymousGroup' => "anonymous",
 		'anonymousMember' => "guest",
@@ -26,7 +25,7 @@
 		'senderEmail' => "ronniengoda@gmail.com",
 		'approvalSubject' => "Your membership is now approved",
 		'approvalMessage' => "Dear member,\r\n\r\nYour membership is now approved by the admin. You can log in to your account here:\r\nhttp://localhost/jisort\r\n\r\nRegards,\r\nAdmin",
-		'hide_twitter_feed' => "",
+		'hide_twitter_feed' => "1",
 		'maintenance_mode_message' => "<b>Our website is currently down for maintenance</b><br>\r\nWe expect to be back in a couple hours. Thanks for your patience.",
 		'mail_function' => "mail",
 		'smtp_server' => "",
