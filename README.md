@@ -8,7 +8,7 @@ is an online timetable management system built in php, mysql, javascript,css4 an
 After extracting this project in your local server directory,find the folder named INSTALL In the folder above you will find a file called jisort_db.sql Go create a database named jisort_db Import the database found in the file above jisort_db.sql After successfully installing you can now run the project
 
 ```bash
-pip install foobar
+It is just that simple
 ```
 
 ## Usage
